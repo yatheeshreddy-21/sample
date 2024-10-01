@@ -1,3 +1,3 @@
 var=int(input())
-print("hello world")
+print("Good Evening")
 
