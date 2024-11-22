@@ -69,7 +69,7 @@ _Follow these steps to get the Dynamic Form Generator up and running on your loc
 
 ## Images
 ![image](https://github.com/user-attachments/assets/96d5d5c1-f693-475d-a717-bd91260c3160)
-![image](images\my-image.png)
+![image](images/my-image.png)
 ![image](https://github.com/user-attachments/assets/983b202f-43bb-4f37-8ea5-d1ca30adb479)
 
 
