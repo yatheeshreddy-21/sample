@@ -66,10 +66,11 @@ _Follow these steps to get the Dynamic Form Generator up and running on your loc
 -Copy the generated form code or export form data as JSON for seamless integration into your workflow!
 
 ## Images
-![image](https://github.com/user-attachments/assets/96d5d5c1-f693-475d-a717-bd91260c3160)
+
 ![image](images\my-image1.png)
 ![image](images\my-image2.png)
-![image](https://github.com/user-attachments/assets/983b202f-43bb-4f37-8ea5-d1ca30adb479)
+
+
 
 
 ### 🎉 Contributing
