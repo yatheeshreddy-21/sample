@@ -67,8 +67,8 @@ _Follow these steps to get the Dynamic Form Generator up and running on your loc
 
 ## Images
 
-![image](images\my-image1.png)
-![image](images\my-image2.png)
+![image](images/my-image1.png)
+![image](images/my-image2.png)
 
 
 
