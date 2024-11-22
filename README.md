@@ -1,8 +1,6 @@
 # 📝 Dynamic Form Generator
 
-**Hosted link:**  https://dynamic-form-generator-flmq.vercel.app/
 
-**My Portfolio link:** https://adnan-portfolio-v2.vercel.app/
 
 *A Dynamic Form Generator is a robust React-based project that allows users to generate dynamic forms based on predefined schemas. Real-time previews, customizable validation, and a clean UI make form creation seamless and efficient. Perfect for developers and businesses who need dynamic form rendering on the fly!*
 
@@ -68,9 +66,9 @@ _Follow these steps to get the Dynamic Form Generator up and running on your loc
 -Copy the generated form code or export form data as JSON for seamless integration into your workflow!
 
 ## Images
-![image](https://github.com/user-attachments/assets/96d5d5c1-f693-475d-a717-bd91260c3160)
+
 ![image](images/my-image.png)
-![image](https://github.com/user-attachments/assets/983b202f-43bb-4f37-8ea5-d1ca30adb479)
+
 
 
 ### 🎉 Contributing
