@@ -44,11 +44,11 @@ _Follow these steps to get the Dynamic Form Generator up and running on your loc
 
 1️⃣ Clone the Repository
 ```bash
-  git clone https://github.com/your-username/dynamic-form-generator.git
+  git clone https://github.com/your-username/sample.git
 ```  
 2️⃣ Navigate to the Project Directory
 ```bash
-  cd dynamic-form-generator
+  cd sample
 ``` 
 3️⃣ Install Dependencies
 ```bash
