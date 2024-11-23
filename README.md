@@ -4,8 +4,6 @@
 
 *A Dynamic Form Generator is a robust React-based project that allows users to generate dynamic forms based on predefined schemas. Real-time previews, customizable validation, and a clean UI make form creation seamless and efficient. Perfect for developers and businesses who need dynamic form rendering on the fly!*
 
-> Note: The JSON schema examples are in the website itself, check above the JSON Editor!
-
 ## ✨ Features
 1️⃣ **Dynamic Form Rendering**: Generate forms based on schema definitions.
 
@@ -26,19 +24,15 @@
 
 4️⃣ **Context Management:** Custom Theme Context using **createContext()** and **useContetxt()**
 
-5️⃣ **Build Tool:** Vercel
-   
+5️⃣ **Testing:** Playwright and Jest for Testing 
+
 ## 📦 Dependencies
 1️⃣ **react-hook-form**: Easy form state management and validation
 
 2️⃣ **tailwindcss:** Utility-first CSS framework for rapid UI development
 
-3️⃣ **clsx:** Conditional class handling
+3️⃣ **typescript:** Static type checking for maintainable code
 
-4️⃣ **typescript:** Static type checking for maintainable code
-
-## 🎨 Colors used
-`#040404` `#FFFFFF` `#000000` `#808080` `#111827`
 ## 🚀 Installation
 _Follow these steps to get the Dynamic Form Generator up and running on your local machine:_
 
@@ -58,7 +52,7 @@ _Follow these steps to get the Dynamic Form Generator up and running on your loc
 ```bash
   npm run dev
 ```  
-**🚀 Open http://localhost:3000 in your browser to view the project.**
+5️⃣🚀 Open http://localhost:3000 in your browser to view the project.**
 
 ## 🛠️ Usage
 -Define your schema in the application.
@@ -73,7 +67,4 @@ _Follow these steps to get the Dynamic Form Generator up and running on your loc
 
 
 
-### 🎉 Contributing
-We welcome contributions! Feel free to submit a pull request or create an issue for any bugs or feature suggestions.
 
-**Enjoy building forms dynamically! 🚀**
